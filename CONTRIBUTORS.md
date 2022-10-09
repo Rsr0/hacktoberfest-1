@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [SAHIL RANA](https://github.com/Rsr0)
+- Place: Chandigarh, India
+- Bio: Software Developer
+- GitHub: [Rsr0](https://github.com/Rsr0)
